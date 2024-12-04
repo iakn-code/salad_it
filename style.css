@@ -54,7 +54,7 @@ margin-left: 40px;
 
 /* メイン */
 #hero {
-    background-image: url(../images/hero.jpg);
+    background-image: url('../images/hero.jpg');
     background-position: center;
     background-size: cover;
     height: 543px;
