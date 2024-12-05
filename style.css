@@ -127,6 +127,15 @@ margin-left: 40px;
     height: 340px;
     border-radius: 20px;
 }
+/* 練習 */
+.concept-img {
+    background-image: url(images/concept.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 270px;
+    border-radius: 20px;
+}
+
 .heading {
     font-family: "Dancing Script", cursive;
     font-size: 200px;
