@@ -121,7 +121,7 @@ margin-left: 40px;
     line-height: 2;
 }
 .concept-img {
-    background-image: url(images/concept.jpg);
+    background-image: url(./images/concept.jpg);
     background-position: center;
     background-size: cover;
     height: 340px;
