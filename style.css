@@ -121,7 +121,7 @@ margin-left: 40px;
     line-height: 2;
 }
 .concept-img {
-    background-image: url(../images/concept.jpg);
+    background-image: url(images/concept.jpg);
     background-position: center;
     background-size: cover;
     height: 340px;
@@ -222,7 +222,7 @@ margin-left: 40px;
 }
 
 .column-a {
-    background-image: url(../images/bottom1.jpg);
+    background-image: url(images/bottom1.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -230,7 +230,7 @@ margin-left: 40px;
     border-radius: 20px;
 }
 .column-b {
-    background-image: url(../images/bottom2.jpg);
+    background-image: url(images/bottom2.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -238,7 +238,7 @@ margin-left: 40px;
     border-radius: 20px;
 }
 .column-c {
-    background-image: url(../images/bottom3.jpg);
+    background-image: url(images/bottom3.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -246,7 +246,7 @@ margin-left: 40px;
     border-radius: 20px;
 }
 .column-d {
-    background-image: url(../images/bottom4.jpg);
+    background-image: url(images/bottom4.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
