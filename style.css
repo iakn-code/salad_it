@@ -120,7 +120,7 @@ margin-left: 40px;
 .text {
     line-height: 2;
 }
-#concept-img {
+.concept-img {
     background-image: url(images/concept.jpg);
     background-position: center;
     background-size: cover;
